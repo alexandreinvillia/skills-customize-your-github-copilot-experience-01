@@ -1,10 +1,10 @@
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Build a simple Hangman game to practice core Python concepts such as loops, conditionals, strings, and user input. By the end, students should be able to manage game state and user interaction in a complete program.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Build the Core Hangman Loop
 
