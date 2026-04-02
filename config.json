@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-data-structures",
+      "title": "Estruturas de Dados em Python",
+      "description": "Listas, dicionarios, conjuntos e tuplas para organizacao e analise de dados.",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-04-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "APIs REST com FastAPI",
+      "description": "Construindo endpoints REST com FastAPI, validacao de dados e operacoes CRUD.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-04-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
